@@ -1,0 +1,25 @@
+$comment
+TOOL:	simvision waveform_frequency_plot plugin
+$end
+
+$date
+    Fri Sep 26 11:17:58 IST 2025
+$end
+
+$timescale
+    1ns
+$end
+
+$scope module freq_plugin_module $end
+$var real 64 ! clk_freq__MHz $end
+$upscope $end
+
+$enddefinitions $end
+
+#25
+$dumpvars
+r100.0000 !
+$end
+
+#35
+r100.0000 !
