@@ -1,6 +1,6 @@
 //==============================================================================
 // Module: FIFO (First-In First-Out Queue)
-// Author: <Your Name>
+// Author: Kedar Adake
 // Description:
 //   • Simple synchronous FIFO with separate read/write pointers
 //   • Supports 8-bit data, depth = 32
